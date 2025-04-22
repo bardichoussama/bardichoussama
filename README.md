@@ -6,19 +6,12 @@
   
   ### 📇 Contact me 📇
 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/brc.m1/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oussamabardich)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/brc.o1/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-bardich-bb3647309/)
   [![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/BardichMouad)
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@oussamabardich)
+
   
 </div>
-
----
-
-### 👨‍💼 À propos de moi
-
-Je suis **Oussama Bardich**, développeur Full-Stack passionné par la création de solutions numériques performantes et intuitives.  
-Curieux, rigoureux et axé sur la qualité, je transforme les idées en applications concrètes tout en m’adaptant rapidement aux défis techniques.
 
 ---
 
@@ -54,8 +47,3 @@ I love gaming on:
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=flat-square&logo=epic-games&logoColor=white)
 ![EA Games](https://img.shields.io/badge/EA-%23000000.svg?style=flat-square&logo=ea&logoColor=white)
 
----
-
-<div align="center">
-  <h3>🎮 To have fun and spend time...😊😊😊</h3>
-</div>
